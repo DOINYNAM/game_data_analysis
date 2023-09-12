@@ -13,7 +13,7 @@
 
 ## :two: 프로젝트 결과물
 
-- 결과물 : https://github.com/DOINYNAM/game_data_analysis/game_data.ipynb
+- 결과물 : https://github.com/DOINYNAM/game_data_analysis/blob/main/game_data.ipynb
 
 <br/>
 
